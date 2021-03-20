@@ -1,0 +1,22 @@
+.row {
+    height: 500px;
+    flex-direction: row;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.block {
+    display: block;
+    width: 50px;
+    height: 40px;
+}
